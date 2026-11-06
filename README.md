@@ -17,14 +17,15 @@ No predefined classes. No predetermined destiny. Your journey is yours to shape.
 ```text
 freelands/
 ├── client/    # SvelteKit game client
+├── docs/      # Design and protocol documentation
 ├── server/    # Go game server
 └── README.md
 ```
 
 ## Documentation
 
-- [Game Design Document](docs/GAME_DESIGN.md)
-- [Network Protocol](server/docs/NETWORK_PROTOCOL.md)
+- [Game Design Document](docs/GDD.md)
+- [Network Protocol](docs/NETWORK_PROTOCOL.md)
 - [Server Implementation Roadmap](server/README.md)
 
 ## License
