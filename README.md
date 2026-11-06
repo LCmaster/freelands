@@ -30,7 +30,7 @@ freelands/
 
 ## License
 
-- Source code: [MIT License](LICENSE)
+- Source code: [Apache License 2.0](LICENSE)
 - Original game assets: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Freelands is a work in progress. Contributions and community involvement are welcome.
